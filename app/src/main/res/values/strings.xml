@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestRetrofir</string>
+    <string name="exchange_description">Exchange description:</string>
+    <string name="ccy">Batch</string>
+    <string name="base_ccy">Tracks</string>
+    <string name="buy_price">Buy price</string>
+    <string name="sale_price">Sale price</string>
+</resources>
