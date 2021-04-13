@@ -5,4 +5,6 @@
     <string name="base_ccy">Tracks</string>
     <string name="buy_price">Buy price</string>
     <string name="sale_price">Sale price</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
